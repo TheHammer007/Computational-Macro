@@ -117,3 +117,4 @@ if __name__ == "__main__":
     print(f"Number of wage points: {len(wages)}")
     print(f"Wage range: [{min(wages):.2f}, {max(wages):.2f}]")
     print(f"Value function - Min: {min(V):.4f}, Max: {max(V):.4f}")
+    print("")
